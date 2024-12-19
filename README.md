@@ -16,4 +16,4 @@
 
 ### Автор 
 
-- Github - [Nikolay Vashentsev](https://github.com/DonutsHunter)
+- Github - [Nikolay Vashentsev](https://github.com/DonutsHunter/posmotri_v_okno)

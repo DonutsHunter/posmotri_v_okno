@@ -1,3 +1,5 @@
+https://github.com/DonutsHunter/posmotri_v_okno
+
 # Яндекс Практикум, 2 спринт, проект "Посмотри в окно"
 
 ## Оглавление
@@ -16,4 +18,4 @@
 
 ### Автор 
 
-- Github - [Nikolay Vashentsev](https://github.com/DonutsHunter/posmotri_v_okno)
+- Github - [Nikolay Vashentsev](https://github.com/DonutsHunter)
